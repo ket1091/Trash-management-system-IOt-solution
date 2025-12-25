@@ -44,7 +44,7 @@ The following proposed system involves two methods for network connectivity-
 
 1. NB-IOT network
 2. LoRaWAN network
-![Expecting and Image??](./images/SENSOR_UltraSonic_sensor_2-3_for_redundancy_and_false_readings_(1).png)
+![Expecting and Image??](./images/architecture.png)
 
 ## 3. Design and Protocols for Data Flow
 
