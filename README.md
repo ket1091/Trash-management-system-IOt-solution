@@ -44,7 +44,7 @@ The following proposed system involves two methods for network connectivity-
 
 1. NB-IOT network
 2. LoRaWAN network
-[Expecting and Image??](image_source_url_or_path)
+![Expecting and Image??](./images/SENSOR_UltraSonic_sensor_2-3_for_redundancy_and_false_readings_(1).png)
 
 ## 3. Design and Protocols for Data Flow
 
@@ -129,7 +129,7 @@ bins.
 
 
 ## 8. Cost & Feasibility Analysis
-[Expecting and Image??](image_source_url_or_path)
+![Expecting and Image??](./images/cost.png)
 
 
 ● The upfront cost of both systems is high but the recurring cost of NB-IOT cannot
@@ -143,7 +143,7 @@ connecting to the internet would be coming to the same cost. But LoRa systems ca
 have longer battery life.
 
 ## 9. Conclusion
-[Expecting and Image??](image_source_url_or_path)
+![Expecting and Image??](./images/Conclusion.png)
 
 
 
